@@ -1,0 +1,159 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Geoffrey Mendoza. Aspiring software developer that specializes in game development. My goal is to experience innovative and challenging tasks in the field of game industry to design and develop complex projects with efficiency and quality",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Patchimals",
+        "startDate": "2024",
+        "description": "My Capstone/Thesis project. It revolves around the story of Philippine Eagle and his adventure with endemic animals in the Philippines",
+        "images": [
+          "images/portfolio/patchimals/patchimals-1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Beast Trigger",
+        "startDate": "2023",
+        "description": "The most expanded game I work with. I've learned many code skills and luckily to have it showcase on the PGDX 2023 and PGDX 2024 convention.",
+        "images": [
+          "images/portfolio/beast-trigger/bt-1.png",
+          "images/portfolio/beast-trigger/bt-2.jpg",
+          "images/portfolio/beast-trigger/bt-3.png",
+          "images/portfolio/beast-trigger/bt-4.png"
+        ],
+        "url": "https://debateclub.itch.io/beast-trigger",
+        "technologies": [
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "How It Goes",
+        "startDate": "2024",
+        "description": "Game that submitted to a school competition. We won first place and will be featuring in PGDX 2024!",
+        "images": [
+          "images/portfolio/how-it-goes/hig-1.png",
+          "images/portfolio/how-it-goes/hig-2.png",
+          "images/portfolio/how-it-goes/hig-3.png",
+          "images/portfolio/how-it-goes/hig-4.png"
+
+        ],
+        "url": "https://debateclub.itch.io/how-it-goes",
+        "technologies": [
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Bartholomeow",
+        "startDate": "2023",
+        "description": "The first game that team Debate Club participated on a game jam. It won various awards and will be showcasing to PGDX 2024",
+        "images": [
+          "images/portfolio/bmeow/bmeow-1.png",
+          "images/portfolio/bmeow/bmeow-2.png",
+          "images/portfolio/bmeow/bmeow-3.png",
+          "images/portfolio/bmeow/bmeow-4.png",
+          "images/portfolio/bmeow/bmeow-5.png"
+        ],
+        "url": "https://debateclub.itch.io/bartholomeow",
+        "technologies": [
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Neurons",
+        "startDate": "2022",
+        "description": "One of the first game I had work with a team. It started on a global game jam 2022, and became a game that showcase in Conquest 2023!",
+        "images": [
+          "images/portfolio/neurons/neurons-1.png",
+          "images/portfolio/neurons/neurons-2.jpg",
+          "images/portfolio/neurons/neurons-3.png",
+          "images/portfolio/neurons/neurons-4.png"
+        ],
+        "url": "https://sulren.itch.io/neurons",
+        "technologies": [
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
